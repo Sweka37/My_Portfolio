@@ -248,6 +248,7 @@ transition: .4s ease;
 .details h1{
     font-size: 25px;
     margin-bottom: 20px;
+    margin-left: 70px;
 }
 .details a{
         color: white;
